@@ -1,0 +1,6 @@
+Canonical: https://www.auris.io/.well-known/security.txt
+Contact: mailto:acr-incidentresponse-alerts@acrisure.com
+Contact: tel:+1-616-275-2404
+Expires: 2026-10-02T12:00:00Z
+Hiring: https://www.auris.io/careers/
+Preferred-Languages: en

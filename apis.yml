@@ -1,23 +1,101 @@
 aid: auris
+
 name: Auris
-description: 'Auris is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://dae142b6.delivery.rocketcdn.me/wp-content/uploads/auris-featured.jpg
+
+description: Auris provides cloud‑based payroll and HR solutions for small and medium‑size businesses. Its platform offers secure, compliant payroll
+  processing, benefits administration, time tracking, hiring tools, and integrated tax compliance, all backed by real‑human support. The service
+  aims to simplify workforce management, reduce administrative overhead, and ensure regulatory adherence for growing companies.
+
 url: https://raw.githubusercontent.com/api-evangelist/auris/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-26 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-26'
+
 modified: '2026-09-26'
+
 tags:
 - Company
-apis: []
+- Payroll
+- HR
+- SaaS
+- Small-Business
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/auris-llms.txt
+- type: SecurityTxt
+  url: well-known/auris-security.txt
+- type: WellKnown
+  url: well-known/auris-well-known.yml
+- type: Plans
+  url: plans/auris-plans-pricing.yml
+- type: Security
+  url: security/auris-vulnerability-disclosure.yml
+- type: Hosts
+  url: hosts/auris-hosts.yml
+- type: Vendors
+  url: vendors/auris-vendors.yml
+- type: Newsroom
+  url: https://www.auris.io/press/
+- type: Login
+  url: https://www.auris.io/login/
+- type: Leadership
+  url: https://www.auris.io/about-us/leadership/
+- type: VulnerabilityDisclosure
+  url: security/auris-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/auris-domain-security.yml
 - type: Website
-  url: https://equityzen.com/company/auris
+  url: https://www.auris.io
+- type: Documentation
+  url: https://www.auris.io/resources/
+- type: Blog
+  url: https://www.auris.io/resources/blog/
+- type: Pricing
+  url: https://www.auris.io/pricing/
+- type: TermsOfService
+  url: https://www.auris.io/terms/
+- type: PrivacyPolicy
+  url: https://www.auris.io/privacy/
+- type: Support
+  url: https://www.auris.io/support/
+- type: GettingStarted
+  url: https://www.auris.io/get-started/
+
+apis:
+- name: Auris API
+  description: Auris provides payroll and HR APIs documented at the resources page.
+  humanURL: https://www.auris.io/resources/
+  baseURL: null
+  aid: auris:auris-api
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: API documentation is only available as HTML pages; no machine‑readable OpenAPI/AsyncAPI spec was found despite probing common endpoints.
+  evidence:
+  - url: https://api.auris.io/openapi.json
+    status: 0
+  checked: 2026-09-26
+x-enrichment:
+  date: '2026-09-26'
+  status: enriched
+  artifacts_added: 7
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local

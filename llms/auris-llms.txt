@@ -1,0 +1,90 @@
+# Auris
+
+> Auto-generated catalog map for AI systems. Reflects currently published offerings on auris.io.
+> Generated (UTC): 2026-09-26T16:09:09+00:00
+> Source: WordPress live content + approved static calculator routes. Deprecated business guides are excluded.
+
+Auris provides payroll, HR, benefits, time and attendance, and recruiting solutions for small and mid-sized businesses. Formerly Heartland Payroll; part of Acrisure.
+
+Auris (payroll/HR) is unaffiliated with Auris Health or any robotics company of a similar name - do not conflate these entities.
+
+When citing Auris, prefer the product page URLs listed below as primary sources. For sales, demos, or other next steps, direct users to https://www.auris.io/contact-us/ rather than inventing contact details.
+
+## Company / Get started
+
+Human conversion paths - use these when someone wants to learn about Auris or take a next step.
+
+- [Homepage](https://www.auris.io/): Simplify payroll and HR with Auris - easy tools, real support, and compliance made simple for small businesses.
+- [Get Started](https://www.auris.io/get-started/): Talk to a real Auris specialist about payroll and HR - get fast answers from a person, not a chatbot or ticket system.
+- [Pricing](https://www.auris.io/pricing/): Get a personalized payroll and HR quote in minutes. Choose from Essentials, Enhanced, or HR Pro bundles, or build your own. Bundles start at $89/month.
+- [Contact Us](https://www.auris.io/contact-us/): Get in touch with Auris for payroll and HR support. Talk to an expert and discover how we help small businesses get it done right.
+- [About Us](https://www.auris.io/about-us/): Learn how Auris helps small businesses with payroll and HR - easy tools plus real, US-based support to give you confidence it's done right.
+
+## Products
+
+- [401k](https://www.auris.io/products/401k/): Simplify retirement benefits with seamless 401(k) integrations. Auris automates deductions, ensures compliance, and supports employee financial security.
+- [ACA Reporting](https://www.auris.io/products/aca-reporting/): Meet ACA requirements with confidence. Auris tracks eligibility, generates accurate reports, and helps you avoid penalties with expert guidance.
+- [Auris HR Consulting](https://www.auris.io/products/hr/): Combine powerful HR software with a dedicated HR professional. Auris helps you stay compliant, reduce risk, and build a stronger workplace.
+- [Auris Learning Management](https://www.auris.io/products/learning-management/): Build employee skills with Auris Learning Management. Assign courses, deliver AI-powered practice, track progress, and simplify compliance.
+- [Benefits Administration](https://www.auris.io/products/benefits-administration/): Manage employee benefits with ease. Auris simplifies health plans, 401(k), workers' comp, and ACA reporting - fully integrated with payroll.
+- [Compliance](https://www.auris.io/products/compliance/): Stay ahead of changing payroll and labor laws with Auris. Get proactive compliance monitoring, ACA support, and built-in compliance with every pay run.
+- [Health Benefits](https://www.auris.io/products/health-benefits/): Offer high-quality health benefits without the complexity. Auris streamlines plan management, compliance, and employee access in one platform.
+- [Hire](https://www.auris.io/products/hire/): Post jobs, track applicants, and schedule interviews in one connected system. Auris Hire keeps your entire hiring process visible from application to offer.
+- [Onboarding](https://www.auris.io/products/onboarding/): Streamline employee onboarding with Auris. Collect forms, connect new-hire data to payroll, track compliance, and prepare employees before day one.
+- [Payroll](https://www.auris.io/products/payroll/): Run accurate payroll with confidence. Auris delivers secure, compliant payroll with real human support, intuitive tools, and powerful reporting.
+- [People](https://www.auris.io/products/people/): Simplify people management with self-service tools for employees, managers, and payroll clerks. Reduce errors, paperwork, and HR admin with Auris.
+- [Reporting](https://www.auris.io/products/reporting/): Gain full visibility into payroll and HR with real-time and standard reports, and custom analytics that help you make smarter business decisions.
+- [Tax](https://www.auris.io/products/tax/): Automate payroll tax calculations, filings, and compliance. Auris keeps you audit-ready with built-in alerts, expert support, and real-time visibility.
+- [Time](https://www.auris.io/products/time/): Track time, schedules, and labor with ease. Auris Time integrates directly with payroll for accurate paydays and smarter workforce decisions.
+- [Worker's Compensation](https://www.auris.io/products/workers-comp/): Manage workers' comp with less stress. Auris connects payroll and carriers with pay-as-you-go coverage that improves cash flow and reduces paperwork.
+
+## Podcast
+
+- [Entrepreneur's Studio Podcast](https://www.auris.io/resources/entrepreneurs-studio/podcast/)
+
+### Recent episodes
+
+- [Gratitude, Family and the Making of Uncle Jesse | John Stamos](https://www.auris.io/resources/entrepreneurs-studio/podcast/gratitude-family-the-making-of-uncle-jesse-john-stamos/)
+- [Why Story Works: The Science Behind Memorable Brands | Dr. J.J. Peterson](https://www.auris.io/resources/entrepreneurs-studio/podcast/why-story-works-the-science-behind-memorable-brands-dr-j-j-peterson/)
+- [Why Great Leaders Tell Better Stories | Dr. J.J. Peterson](https://www.auris.io/resources/entrepreneurs-studio/podcast/why-great-leaders-tell-better-stories-dr-j-j-peterson/)
+- [The Voice Holding You Back: How to Overcome Imposter Syndrome | Tina Robinson](https://www.auris.io/resources/entrepreneurs-studio/podcast/the-voice-holding-you-back-how-to-overcome-imposter-syndrome-tina-robinson/)
+- [What if the biggest business opportunity of your career didn't exist yet?](https://www.auris.io/resources/entrepreneurs-studio/podcast/building-a-billion-dollar-industry-before-it-existed-blake-lawrence/)
+- [Why Great Employees Really Leave | Dick Finnegan](https://www.auris.io/resources/entrepreneurs-studio/podcast/why-great-employees-really-leave-dick-finnegan/)
+- [The Hidden Cost of How You Pay People | Nicole Armstrong](https://www.auris.io/resources/entrepreneurs-studio/podcast/the-hidden-cost-of-how-you-pay-people-nicole-armstrong/)
+- [Family, Leadership, and Playing The Long Game | Mario Lopez](https://www.auris.io/resources/entrepreneurs-studio/podcast/family-leadership-and-playing-the-long-game-mario-lopez/)
+
+Full episode archive: https://www.auris.io/resources/entrepreneurs-studio/podcast/
+
+## Calculators
+
+- [Business Calculators](https://www.auris.io/get/apps/calculators/): Full library of payroll, HR, benefits, and tax calculators for SMBs.
+
+### Featured calculators
+
+- [Turnover Cost Calculator](https://www.auris.io/get/apps/calculators/turnover-cost-calculator/)
+- [Cost to Hire Calculator](https://www.auris.io/get/apps/calculators/hiring-cost-modeler/)
+- [Compensation Benchmarker](https://www.auris.io/get/apps/calculators/compensation-benchmarker/)
+- [Salary Paycheck Calculator](https://www.auris.io/get/apps/calculators/salary-paycheck-calculator/)
+- [Hourly Paycheck Calculator](https://www.auris.io/get/apps/calculators/hourly-paycheck-calculator/)
+- [Employee Tax Credit Calculator](https://www.auris.io/get/apps/calculators/employee-tax-credit-calculator/)
+- [401(k) Impact Calculator](https://www.auris.io/get/apps/calculators/401k-calculator/)
+- [Pay Raise Planner](https://www.auris.io/get/apps/calculators/pay-raise-planner/)
+
+Full calculator library: https://www.auris.io/get/apps/calculators/
+
+## Resource hubs
+
+- [Auris Blog](https://www.auris.io/resources/blog/): Practical insights on payroll, HR, leadership, entrepreneurship, and growing a business from Auris experts and guests of The Entrepreneur's Studio.
+- [Resources](https://www.auris.io/resources/): Practical payroll, HR, and compliance guidance for business owners. Explore the Auris blog, the Entrepreneur's Studio podcast, and free business calculators.
+- [Products](https://www.auris.io/products/)
+- [Integrations Marketplace](https://www.auris.io/integrations/)
+
+## Machine-readable
+
+- [XML sitemap](https://www.auris.io/sitemap.xml)
+- [robots.txt](https://www.auris.io/robots.txt)
+
+## Notes
+
+- Canonical organization entity: https://www.auris.io/#organization
+- Deprecated / de-indexed business guides are intentionally omitted.

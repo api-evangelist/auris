@@ -1,0 +1,23 @@
+generated: '2026-09-26'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.auris.io/pricing/
+sources:
+- https://www.auris.io/pricing/
+name: Auris pricing
+audience: business-product
+pricing_basis: per-seat
+plans:
+- name: EssentialS
+  price_text: $89 per month
+  price: 89
+  description: Payroll + Onboarding
+- name: Enhanced
+  price_text: $89 per month
+  price: 89
+  description: Essentials + Hiring
+- name: HR PRO
+  price_text: $89 per month
+  price: 89
+  description: Enhanced + Time & Attendance
+docs: https://www.auris.io/pricing/
